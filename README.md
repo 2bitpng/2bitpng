@@ -9,4 +9,5 @@
 <!-- <img height="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2bitpng&theme=dracula"/> -->
 </div> 
 </div>
-  <a　href="https://atcoder.jp/users/2bit"> atcoder highest 水色 <\a>
+atcoder: https://atcoder.jp/users/2bit
+Twitter: https://twitter.com/2bitpng
